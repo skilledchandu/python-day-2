@@ -1,0 +1,5 @@
+print ("Welcome to condingal")
+print(2)
+print("hello python \n")
+print("hello",4)
+print("welcome to",end="*")
