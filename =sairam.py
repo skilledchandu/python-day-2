@@ -39,3 +39,12 @@ c = input("sai chandrahash")
 
 print("\n sai chandrahash ",c ,"\n  28th of september ")
 
+a = 9
+print(a)
+
+b = "devendra varma"
+print(b)
+
+c = input("devendra varma")
+
+print("\n devendra varma ",c ,"\n  2ndof october ")
